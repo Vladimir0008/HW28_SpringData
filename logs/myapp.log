@@ -1,0 +1,6 @@
+2023-05-10 22:36:21.980 INFO  [main] c.hillel.Hw28SpringDataApplication - Starting Hw28SpringDataApplication using Java 18.0.2.1 with PID 18472 (D:\java\Hillel\HW_28_29\HW28_SpringData\target\classes started by Admin in D:\java\Hillel\HW_28_29\HW28_SpringData)
+2023-05-10 22:36:21.982 INFO  [main] c.hillel.Hw28SpringDataApplication - No active profile set, falling back to 1 default profile: "default"
+2023-05-10 22:36:28.165 INFO  [main] c.hillel.Hw28SpringDataApplication - Started Hw28SpringDataApplication in 6.86 seconds (process running for 7.916)
+2023-05-10 22:39:33.410 INFO  [main] com.hillel.SpringDataApplication - Starting SpringDataApplication using Java 18.0.2.1 with PID 23204 (D:\java\Hillel\HW_28_29\HW28_SpringData\target\classes started by Admin in D:\java\Hillel\HW_28_29\HW28_SpringData)
+2023-05-10 22:39:33.413 INFO  [main] com.hillel.SpringDataApplication - No active profile set, falling back to 1 default profile: "default"
+2023-05-10 22:39:38.012 INFO  [main] com.hillel.SpringDataApplication - Started SpringDataApplication in 5.178 seconds (process running for 5.981)
